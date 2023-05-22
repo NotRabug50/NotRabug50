@@ -1,5 +1,6 @@
 
-<h1>😳 What Am I Doing?</h1>
+<h1 align="Center">😳 What Am I Doing?</h1>
+
 - 🌱 I’m currently learning **C/C++**
 - ⚡ Fun fact **BOTTOM TEXT**
 
