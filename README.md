@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Buğra Altun</h1>
-<h3 align="center">A Junior Developer That Loves To Learn</h3>
 
+<h1>😳 What Am I Doing?</h1>
 - 🌱 I’m currently learning **C/C++**
-
 - ⚡ Fun fact **BOTTOM TEXT**
 
 <h1 align="center">🪄 Meme For You</h1>
