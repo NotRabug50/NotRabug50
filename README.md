@@ -2,7 +2,7 @@
 <h1 align="Center">😳 What Am I Doing?</h1>
 
 - 🌱 I’m currently learning **C/C++**
-- ⚡ Fun fact **BOTTOM TEXT**
+- ⚡ Fun fact **I think I am funny :(**
 
 <h1 align="center">🪄 Meme For You</h1>
 
