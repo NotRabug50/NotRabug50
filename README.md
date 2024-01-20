@@ -1,13 +1,7 @@
-
 <h1 align="Center">😳 What Am I Doing?</h1>
 
 - 🌱 I’m currently learning **C/C++**
 - ⚡ Fun fact **I think I am funny :(**
-
-<h1 align="center">🪄 Meme For You</h1>
-
-![memes](https://random-memer.smallhacker.repl.co)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
